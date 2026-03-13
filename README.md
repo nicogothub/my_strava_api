@@ -9,4 +9,4 @@ Here is a work-in-progress link, showing my last 3 activities:
 
 ### My Last 3 Activities
 
-[View interactive map](last3_activities.html)
+[View interactive map](https://nicogothub.github.io/my_strava_api/last3_activities.html)
